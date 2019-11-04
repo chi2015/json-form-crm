@@ -1,0 +1,36 @@
+.form-content {
+
+}
+
+.form-content .desc {
+}
+
+.form-content .form-row {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.form-content .form-row label {
+    font-size: 18px;
+}
+
+.form-content .form-row input {
+    margin: 5px 0;
+    width: 360px;
+    height: 26px;
+    font-size: 18px;
+}
+
+.form-content .form-error {
+    font-size: 10px;
+    color: red;
+}
+
+.form-content button {
+    margin-top: 20px;
+  height: 60px;
+  width: 200px;
+  font-size: 20px;
+}
